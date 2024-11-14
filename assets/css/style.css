@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+#estrazione {
+    font-size: 24px;
+    margin-top: 20px;
+    color: green;
+}
+#numeriEstratti {
+    margin-top: 20px;
+    font-size: 18px;
+}
+#estrazione div{
+    font-size: 24px;
+    margin-top: 20px;
+    color: rgb(48, 10, 56);
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 100px;
+
+}
